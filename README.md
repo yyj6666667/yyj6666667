@@ -6,6 +6,5 @@ Recently i have been preparing to push the repo of deep learning system by cmu.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yyj6666667&show_icons=true&locale=en&layout=compact" alt="yyj6666667" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yyj6666667&show_icons=true&locale=en" alt="yyj6666667" /></p>
 
 Maintaining readme uh can sometimes be a Complex thing especially on concerned of a man concurrently working on lots of things though I was trying to update this AH readme as soon as possible
