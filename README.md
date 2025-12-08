@@ -1,4 +1,4 @@
-# Benjamin Franklin， his Chinese young version
+# Benjamin Franklin， his young Chinese version
 
 Recently i have been preparing to push the repo of deep learning system by cmu.
 Maintaining readme can sometimes be a Complex thing especially on concerned of a man concurrently working on lots of things though I was trying to update this AH readme as soon as possible
